@@ -14,3 +14,5 @@ function factor(num){
 
 console.log(factor(6));
 
+
+
