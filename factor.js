@@ -12,7 +12,7 @@ function factor(num){
 }
 
 
-console.log(factor(6));
+console.log(factor(7));
 
 
 
