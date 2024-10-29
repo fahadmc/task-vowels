@@ -17,7 +17,7 @@ return charcount;
 
 
 }
-console.log(firstnonrepeat("hello world"));  
+console.log(firstnonrepeat("hello hweorld"));  
 
   
     
